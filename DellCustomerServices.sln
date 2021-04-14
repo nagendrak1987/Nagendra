@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DellAPIGateway", "DellAPIGateway\DellAPIGateway.csproj", "{CE934871-E2A1-4C8E-9F3F-02F6FF5D388F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DellAuthServer", "DellAuthServer\DellAuthServer.csproj", "{689604E8-7BDD-47D5-9B43-0FEE686191DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApp", "ClientApp\ClientApp.csproj", "{517B08EB-55CB-4C63-8D3E-7B6FF68438A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DellCustomerService", "DellCustomerService\DellCustomerService.csproj", "{E4247BD3-A5B1-4C78-B581-61E43F699B59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE934871-E2A1-4C8E-9F3F-02F6FF5D388F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE934871-E2A1-4C8E-9F3F-02F6FF5D388F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE934871-E2A1-4C8E-9F3F-02F6FF5D388F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE934871-E2A1-4C8E-9F3F-02F6FF5D388F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689604E8-7BDD-47D5-9B43-0FEE686191DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689604E8-7BDD-47D5-9B43-0FEE686191DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689604E8-7BDD-47D5-9B43-0FEE686191DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689604E8-7BDD-47D5-9B43-0FEE686191DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517B08EB-55CB-4C63-8D3E-7B6FF68438A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517B08EB-55CB-4C63-8D3E-7B6FF68438A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517B08EB-55CB-4C63-8D3E-7B6FF68438A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517B08EB-55CB-4C63-8D3E-7B6FF68438A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4247BD3-A5B1-4C78-B581-61E43F699B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4247BD3-A5B1-4C78-B581-61E43F699B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4247BD3-A5B1-4C78-B581-61E43F699B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4247BD3-A5B1-4C78-B581-61E43F699B59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45B3A53D-9257-4E63-9C50-2EA9F2CCE89A}
+	EndGlobalSection
+EndGlobal

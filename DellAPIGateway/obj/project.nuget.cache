@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "BNdFgjrlln0oY7ZcwVKngE2525Po+e2Do+PPMr4MWkMNGyRCXirh0w1J/Cb+qffNIxO+040VfY3mDOu0rDK6pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nagendra.Thotakura\\source\\Repos\\DellCustomerServices\\DellAPIGateway\\DellAPIGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\fluentvalidation\\8.5.0\\fluentvalidation.8.5.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.14\\microsoft.aspnetcore.authentication.jwtbearer.3.1.14.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\3.0.0\\microsoft.aspnetcore.middlewareanalysis.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.0.0\\microsoft.extensions.diagnosticadapter.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.1\\microsoft.identitymodel.logging.6.10.1.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.1\\microsoft.identitymodel.tokens.6.10.1.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\ocelot\\14.1.0\\ocelot.14.1.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.5.0\\system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

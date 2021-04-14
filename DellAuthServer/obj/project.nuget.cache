@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Q/mxH/yOZu6YKIUIB2YcXuNwcVu/1I7Ja0KvctY4vUBBLwyonUCGKMViWG20mYaJ59Tuv9kwqSgC/nx1zoZSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nagendra.Thotakura\\source\\Repos\\DellCustomerServices\\DellAuthServer\\DellAuthServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.1\\microsoft.identitymodel.jsonwebtokens.6.10.1.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.1\\microsoft.identitymodel.logging.6.10.1.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.1\\microsoft.identitymodel.tokens.6.10.1.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.1\\system.identitymodel.tokens.jwt.6.10.1.nupkg.sha512",
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

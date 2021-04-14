@@ -1,0 +1,15 @@
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.exe
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.deps.json
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.json
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.dev.json
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.dll
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.pdb
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfoInputs.cache
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfo.cs
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.dll
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.pdb
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.genruntimeconfig.cache
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csprojAssemblyReference.cache
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Nagendra.Thotakura\source\Repos\DellCustomerServices\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.CopyComplete

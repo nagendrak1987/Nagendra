@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtbX4/DQlcY2oy8ukiQ8QzrMNwSeb0AS0If9YEFrYqRDUM1JeA3anVquvWfWFwt8NcgmGO5GhvytQwCUqYCCAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nagendra.Thotakura\\source\\Repos\\DellCustomerServices\\ClientApp\\ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nagendra.Thotakura\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
